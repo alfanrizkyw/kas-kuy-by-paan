@@ -1,3 +1,5 @@
+https://alfanrizkyw.github.io/kas-kuy-by-paan/
+
 🧾 KasKuy – Aplikasi Pengelolaan Keuangan Usaha yang Super Simple dan Canggih
 
 KasKuy adalah web aplikasi pengelolaan keuangan yang dirancang khusus untuk membantu pelaku usaha kecil hingga menengah dalam mencatat pemasukan, pengeluaran, dan laba secara cepat, akurat, dan mudah dipahami.
